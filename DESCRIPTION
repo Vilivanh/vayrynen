@@ -1,0 +1,23 @@
+Package: vayrynen
+Type: Package
+Title: Add the king of the world to the election results
+Version: 0.1.0
+Author: V.V
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Jeb-package (credit to Robert Hickman) inspired package with similar idea, but with Finland's own Paavo Väyrynen
+    .
+License: Free to use for non-commercial purposes
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    stats,
+    utils,
+    ggplot2,
+    sf,
+    rmapshaper,
+    png,
+    countrycode,
+    ggthemes
+Suggests:
+    knirt
+    
