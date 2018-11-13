@@ -9,8 +9,7 @@ License: Free to use for non-commercial purposes
 Encoding: UTF-8
 LazyData: true
 Imports:
- stats,
- utils,
+ stats,%>% utils,
  ggplot2,
  sf,
  rmapshaper,
