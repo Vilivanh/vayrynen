@@ -8,6 +8,6 @@ Description: Jeb-package (credit to Robert Hickman) inspired package with simila
 License: Free to use for non-commercial purposes
 Encoding: UTF-8
 LazyData: true
-Imports:%>%stats%>%utils%>%ggplot2%>%sf%>%rmapshaper%>%png%>%countrycode%>%ggthemes
+Imports:%>%stats,%>%utils,%>%ggplot2,%>%sf,%>%rmapshaper,%>%png,%>%countrycode,%>%ggthemes
 Suggests:%>%knirt
     
