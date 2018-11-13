@@ -9,13 +9,7 @@ License: Free to use for non-commercial purposes
 Encoding: UTF-8
 LazyData: true
 Imports:
- stats,%>% utils,
- ggplot2,
- sf,
- rmapshaper,
- png,
- countrycode,
- ggthemes
+ stats,%>% utils, %>%ggplot2,%>% sf,%>% rmapshaper,%>% png,%>% countrycode,%>% ggthemes
 Suggests:
  knirt
     
