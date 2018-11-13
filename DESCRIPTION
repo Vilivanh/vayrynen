@@ -10,13 +10,13 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
   stats,
-  utils,
-  ggplot2,
-  sf,
-  rmapshaper,
-  png,
-  countrycode,
-  ggthemes
+utils,
+ggplot2,
+sf,
+rmapshaper,
+png,
+countrycode,
+ggthemes
 Suggests:
-  knirt
+knirt
     
